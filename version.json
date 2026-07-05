@@ -1,8 +1,8 @@
 {
   "minimum_version": "1.35",
   "latest_version": "1.35",
-  "android_latest_version": "1.33",
-  "force_update": false,
+  "android_latest_version": "1.36",
+  "force_update": true,
   "app_store_url": "https://apps.apple.com/app/id6757217571",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.mustafa.SmartEyes",
   "advanced_trial_key": "SE_SczgXAFjTB0YqTodcNCLEpPMRHLrLXiJSr"
