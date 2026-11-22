@@ -8,5 +8,8 @@
   "advanced_trial_key": "SE_SczgXAFjTB0YqTodcNCLEpPMRHLrLXiJSr",
   "basic_daily_free_limit_after_trial": 0,
   "trial_daily_fair_use_cap": 80,
-  "paywall_offer_cooldown_minutes": 3
+  "paywall_offer_cooldown_minutes": 3,
+  "video_minutes_monthly_subscription": 100,
+"video_minutes_monthly_lifetime": 60,
+"lifetime_video_legacy_before": "2026-12-01"
 }
