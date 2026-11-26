@@ -10,6 +10,6 @@
   "trial_daily_fair_use_cap": 80,
   "paywall_offer_cooldown_minutes": 3,
   "video_minutes_monthly_subscription": 100,
-"video_minutes_monthly_lifetime": 100,
+"video_minutes_monthly_lifetime": 50,
 "lifetime_video_legacy_before": "2026-12-01"
 }
